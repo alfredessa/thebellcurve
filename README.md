@@ -1,1 +1,1 @@
-# thebellcurve
+# Examining the Bell Curve
